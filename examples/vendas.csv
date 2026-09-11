@@ -1,0 +1,51 @@
+id,produto,quantidade,preco
+1,Caderno,3,12.50
+2,Caneta,10,2.25
+3,Mochila,1,120.00
+4,Lapis,12,1.75
+5,Borracha,8,2.50
+6,Regua,5,6.90
+7,Marcador,4,8.40
+8,Agenda,2,35.00
+9,Grampeador,1,29.90
+10,Clips,20,4.20
+11,Calculadora,2,59.90
+12,Pasta,6,11.50
+13,Bloco de notas,9,7.80
+14,Cartolina,15,3.40
+15,Tesoura,3,18.75
+16,Cola,7,5.60
+17,Apontador,11,3.25
+18,Corretivo,5,7.10
+19,Estojo,2,24.90
+20,Marca texto,8,6.30
+21,Caderno universitario,4,22.50
+22,Caneta azul,16,2.25
+23,Caneta preta,14,2.25
+24,Lapis de cor,6,18.90
+25,Giz de cera,3,14.60
+26,Papel sulfite,10,27.50
+27,Envelope,25,1.20
+28,Etiqueta,12,9.80
+29,Fita adesiva,8,5.90
+30,Perfurador,2,38.00
+31,Prancheta,3,16.40
+32,Post-it,9,12.90
+33,Caderno brochura,5,14.70
+34,Pincel,7,4.80
+35,Tinta guache,4,9.50
+36,Papel fotografico,2,32.00
+37,Pen drive,3,45.90
+38,Teclado,1,89.90
+39,Mouse,2,54.50
+40,Suporte notebook,1,79.00
+41,Cartucho tinta,2,110.00
+42,Impressora,1,499.90
+43,Cabo USB,6,15.30
+44,Adaptador,4,21.75
+45,Headset,2,129.90
+46,Webcam,1,159.00
+47,Monitor,2,899.00
+48,Hub USB,3,49.90
+49,Mouse pad,5,19.90
+50,Carregador,2,75.00

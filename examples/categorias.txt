@@ -1,0 +1,51 @@
+codigo;categoria;departamento
+1;Cadernos;Papelaria
+2;Canetas;Papelaria
+3;Lápis;Papelaria
+4;Borrachas;Papelaria
+5;Réguas;Papelaria
+6;Marcadores;Papelaria
+7;Agendas;Papelaria
+8;Grampeadores;Papelaria
+9;Clips;Papelaria
+10;Calculadoras;Papelaria
+11;Pastas;Organização
+12;Blocos de notas;Papelaria
+13;Cartolinas;Papelaria
+14;Tesouras;Papelaria
+15;Colas;Papelaria
+16;Apontadores;Papelaria
+17;Corretivos;Papelaria
+18;Estojos;Papelaria
+19;Marca-textos;Papelaria
+20;Lápis de cor;Papelaria
+21;Giz de cera;Papelaria
+22;Papel sulfite;Papelaria
+23;Envelopes;Papelaria
+24;Etiquetas;Organização
+25;Fitas adesivas;Papelaria
+26;Perfuradores;Organização
+27;Pranchetas;Organização
+28;Post-its;Papelaria
+29;Pincéis;Artes
+30;Tintas;Artes
+31;Papel fotográfico;Informática
+32;Pen drives;Informática
+33;Teclados;Informática
+34;Mouses;Informática
+35;Suportes;Informática
+36;Cartuchos;Informática
+37;Impressoras;Informática
+38;Cabos USB;Informática
+39;Adaptadores;Informática
+40;Headsets;Informática
+41;Webcams;Informática
+42;Monitores;Informática
+43;Hubs USB;Informática
+44;Mouse pads;Informática
+45;Carregadores;Informática
+46;Baterias;Informática
+47;Caixas de som;Informática
+48;Microfones;Informática
+49;Luminárias;Escritório
+50;Quadros brancos;Escritório

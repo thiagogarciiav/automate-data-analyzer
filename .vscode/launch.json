@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Data Analyzer",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "data_analyzer",
+      "args": [
+        "--input",
+        "examples",
+        "--database",
+        "dados.db",
+        "--report-dir",
+        "relatorios"
+      ],
+      "console": "integratedTerminal"
+    }
+  ]
+}

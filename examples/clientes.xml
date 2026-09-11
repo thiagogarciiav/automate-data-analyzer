@@ -1,0 +1,54 @@
+<clientes>
+  <cliente><id>1</id><nome>Ana</nome><cidade>São Paulo</cidade></cliente>
+  <cliente><id>2</id><nome>Bruno</nome><cidade>Recife</cidade></cliente>
+  <cliente><id>1</id><nome>Ana Souza</nome><cidade>São Paulo</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>2</id><nome>Bruno Lima</nome><cidade>Recife</cidade><segmento>Atacado</segmento></cliente>
+  <cliente><id>3</id><nome>Carla Mendes</nome><cidade>Curitiba</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>4</id><nome>Diego Alves</nome><cidade>Salvador</cidade><segmento>Corporativo</segmento></cliente>
+  <cliente><id>5</id><nome>Elisa Rocha</nome><cidade>Fortaleza</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>6</id><nome>Fabio Costa</nome><cidade>Rio de Janeiro</cidade><segmento>Atacado</segmento></cliente>
+  <cliente><id>7</id><nome>Gabriela Nunes</nome><cidade>Belo Horizonte</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>8</id><nome>Henrique Dias</nome><cidade>Porto Alegre</cidade><segmento>Corporativo</segmento></cliente>
+  <cliente><id>9</id><nome>Isabela Freitas</nome><cidade>Brasília</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>10</id><nome>João Ribeiro</nome><cidade>Manaus</cidade><segmento>Atacado</segmento></cliente>
+  <cliente><id>11</id><nome>Karina Martins</nome><cidade>Belém</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>12</id><nome>Lucas Oliveira</nome><cidade>Goiânia</cidade><segmento>Corporativo</segmento></cliente>
+  <cliente><id>13</id><nome>Mariana Castro</nome><cidade>Campinas</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>14</id><nome>Nicolas Barros</nome><cidade>Natal</cidade><segmento>Atacado</segmento></cliente>
+  <cliente><id>15</id><nome>Olivia Araujo</nome><cidade>Florianópolis</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>16</id><nome>Paulo Teixeira</nome><cidade>João Pessoa</cidade><segmento>Corporativo</segmento></cliente>
+  <cliente><id>17</id><nome>Quesia Moraes</nome><cidade>Aracaju</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>18</id><nome>Rafael Cardoso</nome><cidade>Maceió</cidade><segmento>Atacado</segmento></cliente>
+  <cliente><id>19</id><nome>Sofia Pereira</nome><cidade>Vitória</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>20</id><nome>Thiago Santos</nome><cidade>Campo Grande</cidade><segmento>Corporativo</segmento></cliente>
+  <cliente><id>21</id><nome>Ursula Melo</nome><cidade>Cuiabá</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>22</id><nome>Vinicius Ramos</nome><cidade>Teresina</cidade><segmento>Atacado</segmento></cliente>
+  <cliente><id>23</id><nome>Wesley Pinto</nome><cidade>Londrina</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>24</id><nome>Xavier Duarte</nome><cidade>Santos</cidade><segmento>Corporativo</segmento></cliente>
+  <cliente><id>25</id><nome>Yasmin Lopes</nome><cidade>Ribeirão Preto</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>26</id><nome>André Farias</nome><cidade>São Paulo</cidade><segmento>Atacado</segmento></cliente>
+  <cliente><id>27</id><nome>Beatriz Sales</nome><cidade>Recife</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>28</id><nome>Caio Vieira</nome><cidade>Curitiba</cidade><segmento>Corporativo</segmento></cliente>
+  <cliente><id>29</id><nome>Daniela Torres</nome><cidade>Salvador</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>30</id><nome>Eduardo Reis</nome><cidade>Fortaleza</cidade><segmento>Atacado</segmento></cliente>
+  <cliente><id>31</id><nome>Fernanda Braga</nome><cidade>Rio de Janeiro</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>32</id><nome>Gustavo Reis</nome><cidade>Belo Horizonte</cidade><segmento>Corporativo</segmento></cliente>
+  <cliente><id>33</id><nome>Helena Maia</nome><cidade>Porto Alegre</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>34</id><nome>Igor Campos</nome><cidade>Brasília</cidade><segmento>Atacado</segmento></cliente>
+  <cliente><id>35</id><nome>Juliana Moraes</nome><cidade>Manaus</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>36</id><nome>Kleber Soares</nome><cidade>Belém</cidade><segmento>Corporativo</segmento></cliente>
+  <cliente><id>37</id><nome>Larissa Neves</nome><cidade>Goiânia</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>38</id><nome>Marcelo Fontes</nome><cidade>Campinas</cidade><segmento>Atacado</segmento></cliente>
+  <cliente><id>39</id><nome>Nathalia Correia</nome><cidade>Natal</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>40</id><nome>Otavio Silva</nome><cidade>Florianópolis</cidade><segmento>Corporativo</segmento></cliente>
+  <cliente><id>41</id><nome>Priscila Ramos</nome><cidade>João Pessoa</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>42</id><nome>Renato Cunha</nome><cidade>Aracaju</cidade><segmento>Atacado</segmento></cliente>
+  <cliente><id>43</id><nome>Samara Leal</nome><cidade>Maceió</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>44</id><nome>Tiago Melo</nome><cidade>Vitória</cidade><segmento>Corporativo</segmento></cliente>
+  <cliente><id>45</id><nome>Valeria Paes</nome><cidade>Campo Grande</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>46</id><nome>William Luz</nome><cidade>Cuiabá</cidade><segmento>Atacado</segmento></cliente>
+  <cliente><id>47</id><nome>Yuri Assis</nome><cidade>Teresina</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>48</id><nome>Zelia Prado</nome><cidade>Londrina</cidade><segmento>Corporativo</segmento></cliente>
+  <cliente><id>49</id><nome>Adriana Lima</nome><cidade>Santos</cidade><segmento>Varejo</segmento></cliente>
+  <cliente><id>50</id><nome>Bernardo Lopes</nome><cidade>Ribeirão Preto</cidade><segmento>Atacado</segmento></cliente>
+</clientes>
